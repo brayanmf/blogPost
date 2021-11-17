@@ -12,3 +12,4 @@ import './styles/stilos.css';
 
 // start the Stimulus application
 import './bootstrap';
+
